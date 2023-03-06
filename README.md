@@ -41,6 +41,10 @@ Note that Kindernest is not a childcare, a parent or caregiver must be in attend
 The playgroup is a parent co-operative, participants are expected to contribute to the running of the session including: setting up, supervise / run structured activities for the children (younger 0-2 years, older 2-5 years) as well as cleaning up.
 
 ## Links
-
+### Uns:
 Mail: deutschespielgruppewgtn@gmail.com  
 Social media: https://www.facebook.com/germanplaygroupwellington/ 
+
+### Andere Deutsche Gruppen in Wellington:
+Deutsche Sprachschule Wellington: http://www.dswellington.org/ 
+Rappelkiste (Spielgruppe in Island Bay, Donnerstags): https://www.rappelkiste.co.nz/
