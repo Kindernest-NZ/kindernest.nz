@@ -1,3 +1,5 @@
+<img src="kindernest-logo.jpg" width="400">
+
 ## Kindernest - Deutsche Spielgruppe Wellington
 
 A German Speaking Playgroup (Deutsche Spielgruppe) in Wellington.
@@ -17,5 +19,3 @@ Khandallah Presbyterian Church Hall
 
 * Email: [deutschespielgruppewgtn@gmail.com](mailto:deutschespielgruppewgtn@gmail.com)
 * Social media: [https://www.facebook.com/kindernestnz](https://www.facebook.com/kindernestnz)
-
-<img src="kindernest-logo.jpg" width="400">
