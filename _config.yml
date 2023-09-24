@@ -1,0 +1,54 @@
+# Site metadata
+title: Kindernest
+tagline: Deutsche Spielgruppe Wellington
+description: >
+  A German Speaking Playgroup (Deutsche Spielgruppe) in Wellington.
+  We meet every Friday 9.30 - 11.30, including school holidays and public holidays.
+
+# Author and contact information
+author:
+  name: Kindernest
+  email: "kindernestnz@gmail.com"
+  physical-address:
+    building: Khandallah Presbyterian Church Hall
+    street: 33 Ganges Road
+    suburb: Khandallah
+    town: Wellington
+    postal-code: 6035
+    country: New Zealand
+    latitude: -41.24710
+    longitude: 174.79206
+
+# SEO
+facebook:
+  publisher: kindernestnz
+  admins: 100076498717707
+locale: en_NZ
+logo: kindernest-logo.jpg
+social:
+  links:
+    - https://www.facebook.com/kindernestnz
+    - https://www.cab.org.nz/community-directory/KB00006697
+
+# Build settings
+timezone: Pacific/Auckland
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Post settings
+show_excerpts: true
+permalink: /:year/:month/:day/:title
+
+# Theme settings
+# Minima 3.x
+remote_theme: jekyll/minima
+minima:
+  date_format: "%-d %B %Y"
+  skin: auto
+  social_links:
+    - platform: facebook
+      user_url: "https://www.facebook.com/kindernestnz"
+    #- platform: cab
+    #  user_url: https://www.cab.org.nz/community-directory/KB00006697
+    #  title: Kindernest on Citizens Advice Bureau

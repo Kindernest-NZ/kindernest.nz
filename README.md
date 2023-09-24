@@ -1,21 +1,15 @@
-<img src="kindernest-logo.jpg" width="400">
+# Website of the Kindernest playgroup
 
-## Kindernest - Deutsche Spielgruppe Wellington
+## Build
 
-A German Speaking Playgroup (Deutsche Spielgruppe) in Wellington.
+The build requires `bundler` to manage the dependencies.
 
-[Further information on our CAB page](https://www.cab.org.nz/community-directory/KB00006697).
+First install the dependencies:
 
-### When
+    bundle config set --local path 'vendor/bundle'
+    bundle install
 
-Every Friday 9.30am - 11.30am
+The static site can then be built with `jekyll`:
 
-### Where
-
-Khandallah Presbyterian Church Hall  
-33 Ganges Road, Khandallah, Wellington 6035
-
-### Contact
-
-* Email: [deutschespielgruppewgtn@gmail.com](mailto:deutschespielgruppewgtn@gmail.com)
-* Social media: [https://www.facebook.com/kindernestnz](https://www.facebook.com/kindernestnz)
+    bundle exec jekyll clean
+    bundle exec jekyll build
