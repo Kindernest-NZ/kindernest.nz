@@ -70,7 +70,7 @@ We organize various events several times a year, such as a lantern procession to
 
 Unsere Spielgruppe ist vom [Ministry of Education zertifiziert](https://www.education.govt.nz/early-childhood/licensing-and-regulations/the-regulatory-framework-for-ece/licensing-criteria/certification-criteria-for-playgroups/playgroups/).
 
-> Eine zertifizierte Spielgruppe erfüllt vorgeschriebene Standards der [Bildungsbestimmungen für Spiegruppen 2008](https://www.legislation.govt.nz/regulation/public/2008/0205/latest/DLM1396401.html) in den Bereichen: Lehrplan, Betreuungsschlüssel, Räumlichkeiten und Einrichtung, Gesundheits- und Sicherheitspraktiken, sowie Verwaltung.
+> Eine zertifizierte Spielgruppe erfüllt vorgeschriebene Standards der [Bildungsbestimmungen für Spielgruppen 2008](https://www.legislation.govt.nz/regulation/public/2008/0205/latest/DLM1396401.html) in den Bereichen: Lehrplan, Betreuungsschlüssel, Räumlichkeiten und Einrichtung, Gesundheits- und Sicherheitspraktiken, sowie Verwaltung.
 
 Our playgroup is [fully certified by the Ministry of Education](https://www.education.govt.nz/early-childhood/licensing-and-regulations/the-regulatory-framework-for-ece/licensing-criteria/certification-criteria-for-playgroups/playgroups/).
 
