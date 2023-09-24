@@ -2,9 +2,9 @@
 title: Über uns | About us
 ---
 
-* [Willkommen \| Welcome](#willkommen--welcome--haere-mai)
-* [Wo wir sind \| Visit us](#wo-wir-sind--visit-us)
-* [Spenden \| Donations](#spenden--donations)
+* [Willkommen \| Welcome](#-willkommen--welcome--haere-mai-)
+* [Wo wir sind \| Visit us](#-wo-wir-sind--visit-us)
+* [Spenden \| Donations](#-spenden--donations)
 * [Neuigkeiten \| News](#neuigkeiten--news)
 
 ## 🇩🇪 Willkommen | Welcome | Haere Mai 🇳🇿
