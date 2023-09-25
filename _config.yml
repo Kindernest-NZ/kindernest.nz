@@ -30,6 +30,8 @@ social:
     - https://www.facebook.com/kindernestnz
     - https://www.cab.org.nz/community-directory/KB00006697
 
+google_analytics: GTM-MKBBDC4J
+
 # Build settings
 timezone: Pacific/Auckland
 plugins:
