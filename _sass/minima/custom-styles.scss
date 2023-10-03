@@ -1,3 +1,20 @@
 // Customisation of syles used in Jekyll minima template
 // Include the preferred external font
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+.site-title {
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+
+.site-tagline {
+  @include relative-font-size(1.125);
+  padding-bottom: 5px;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+  line-height: 35px;
+  float: left;
+}
