@@ -55,3 +55,7 @@ minima:
     #- platform: cab
     #  user_url: https://www.cab.org.nz/community-directory/KB00006697
     #  title: Kindernest on Citizens Advice Bureau
+
+header_pages:
+  - playgroup.md
+  - donate.md
