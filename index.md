@@ -33,4 +33,4 @@ Digital exchange between parents, planning and announcements take place via our 
 
 ---
 
-# Neuigkeiten | News
+## Neuigkeiten | News
