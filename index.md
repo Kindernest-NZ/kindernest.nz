@@ -1,10 +1,7 @@
 ---
 title: Über uns | About us
+list_title: 📢 Neuigkeiten | News
 ---
-
-* [Willkommen \| Welcome](#-willkommen--welcome--haere-mai-)
-* [Wo wir sind \| Visit us](#-wo-wir-sind--visit-us)
-* [Neuigkeiten \| News](#neuigkeiten--news)
 
 ## 🇩🇪 Willkommen | Welcome | Haere Mai 🇳🇿
 
@@ -20,17 +17,14 @@ Die Teilnahme ist kostenlos.
 Our playgroup meets every **Friday 9.30 - 11.30**, including school holidays and public holidays.
 Participation is free of charge.
 
-{{ site.author.physical-address.building }}  
-{{ site.author.physical-address.street }} (opposite New World)  
-{{ site.author.physical-address.suburb }}  
-{{ site.author.physical-address.town }}
+[
+    {{ site.author.physical-address.building }}  
+    {{ site.author.physical-address.street }} (opposite New World)  
+    {{ site.author.physical-address.suburb }}, {{ site.author.physical-address.town }}
+](
+    https://www.google.com/maps/place/{{ site.author.physical-address.street | url_encode }},{{ site.author.physical-address.suburb | url_encode }},{{ site.author.physical-address.town | url_encode }}
+)
 
-[![A map of the playgroup location](/assets/staticmap.jpg "{{ site.author.physical-address.street }}, {{ site.author.physical-address.suburb }}, {{ site.author.physical-address.town }}")](https://www.openstreetmap.org/?mlat={{ site.author.physical-address.latitude }}&mlon={{ site.author.physical-address.longitude }}#map=18/{{ site.author.physical-address.latitude }}/{{ site.author.physical-address.longitude }})
+Digitaler Elternaustausch, Planung und Ankündigungen finden primär über unsere [Kindernestgruppe auf Facebook](https://www.facebook.com/kindernestnz) statt.
 
-Digitaler Elternaustausch, Planung und Ankündigungen finden über unsere [Kindernestgruppe auf Facebook](https://www.facebook.com/kindernestnz) statt.
-
-Digital exchange between parents, planning and announcements take place via our [Kindernest group on Facebook](https://www.facebook.com/kindernestnz).
-
----
-
-## Neuigkeiten | News
+Digital exchange between parents, planning and announcements mostly take place via our [Kindernest group on Facebook](https://www.facebook.com/kindernestnz).
