@@ -18,3 +18,25 @@
   line-height: 35px;
   float: left;
 }
+
+// Display icon after external links
+a[href^="http://"]::after,
+a[href^="https://"]::after
+{
+  content: "";
+  width: 11px;
+  height: 11px;
+  margin-left: 4px;
+
+  background-color: $text-color;
+  -webkit-mask-image: url('/assets/box-arrow-up-right.svg');
+  mask-image: url('/assets/box-arrow-up-right.svg');
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+
+  display: inline-block;
+}
