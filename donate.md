@@ -11,10 +11,10 @@ We receive some funding by the government, but rely on fundraisers and donations
 
 * Spenden per Überweisung \| Donate by bank transfer
 
-  | ------------------ | -----------------: |
-  | **Bank**           |           Kiwibank |
-  | **Account Name**   |         KINDERNEST |
-  | **Account Number** | 38-9004-0040799-00 |
+| ------------------ | -----------------: |
+| **Bank**           |           Kiwibank |
+| **Account Name**   |         KINDERNEST |
+| **Account Number** | 38-9004-0040799-00 |
 
 * [Spenden per PayPal \| Donate with PayPal](https://form.jotform.com/kindernest/donate)
 
