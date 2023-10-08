@@ -1,7 +1,7 @@
 ---
-title: Über uns | About us
 list_title: 📢 Neuigkeiten | News
 ---
+![Kindernest logo: Two children laughing and jumping playfully](/assets/kindernest-logo.png)
 
 ## 🇩🇪 Willkommen | Welcome | Haere Mai 🇳🇿
 
