@@ -60,3 +60,7 @@ minima:
 header_pages:
   - playgroup.md
   - donate.md
+  - links.md
+
+readme_index:
+  enabled: false

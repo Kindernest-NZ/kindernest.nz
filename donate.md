@@ -1,5 +1,5 @@
 ---
-title: Unterstütze uns | Support us
+title: Unterstütze uns
 permalink: /donate
 ---
 

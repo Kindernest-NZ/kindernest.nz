@@ -1,7 +1,9 @@
 ---
-title: Ablauf | What to expect
+title: Spielgruppe
 permalink: /playgroup/
 ---
+
+## Ablauf | What to expect
 
 * [Spielend lernen \| Learning Through Play](#spielend-lernen--learning-through-play)
 * [Lieder \| Songs](#lieder--songs)
