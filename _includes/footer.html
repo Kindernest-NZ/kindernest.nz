@@ -13,6 +13,11 @@
             {% if site.author.email -%}
               <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
             {%- endif %}
+            <!-- Highlight social media presence on Facebook if available -->
+            {% assign facebook = site.minima.social_links | where: 'platform', 'facebook' | first -%}
+            {% if facebook -%}
+              <li><a class="u-url" href="{{ facebook.user_url }}">Facebook Group</a></li>
+            {%- endif -%}
           </ul>
           {% if site.author.physical-address -%}
           <ul class="contact-list">
