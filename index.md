@@ -11,11 +11,11 @@ We are a parent cooperative that was founded in the early 1990s as a place for b
 
 ## 📍 Wo wir sind | Visit us
 
-Unsere [Spielgruppe](/playgroup) trifft sich **jeden Freitag von 9.30 - 11.30 Uhr**, auch in den Schulferien und an Feiertagen.
-Die Teilnahme ist kostenlos.
+Unsere [Spielgruppe](/playgroup) trifft sich **jeden Freitag von 9:30 - 11:30 Uhr**, auch in den Schulferien und an Feiertagen.
+Die Teilnahme ist kostenlos. Wir freuen uns auf deinen Besuch!  
 
-Our [playgroup](/playgroup) meets every **Friday 9.30 - 11.30**, including school holidays and public holidays.
-Participation is free of charge.
+Our [playgroup](/playgroup) meets **every Friday 9.30 - 11.30**, including school holidays and public holidays.
+Participation is free of charge. We're looking forward to meeting you!  
 
 [
     {{ site.author.physical-address.building }}  
@@ -24,7 +24,3 @@ Participation is free of charge.
 ](
     https://www.google.com/maps/place/{{ site.author.physical-address.street | url_encode }},{{ site.author.physical-address.suburb | url_encode }},{{ site.author.physical-address.town | url_encode }}
 )
-
-Digitaler Elternaustausch, Planung und Ankündigungen finden primär über unsere [Kindernestgruppe auf Facebook](https://www.facebook.com/kindernestnz) statt.
-
-Digital exchange between parents, planning and announcements mostly take place via our [Kindernest group on Facebook](https://www.facebook.com/kindernestnz).
