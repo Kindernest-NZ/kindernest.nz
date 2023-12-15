@@ -11,10 +11,10 @@ We are a parent cooperative that was founded in the early 1990s as a place for b
 
 ## 📍 Wo wir sind | Visit us
 
-Unsere Spielgruppe trifft sich **jeden Freitag von 9.30 - 11.30 Uhr**, auch in den Schulferien und an Feiertagen.
+Unsere [Spielgruppe](/playgroup) trifft sich **jeden Freitag von 9.30 - 11.30 Uhr**, auch in den Schulferien und an Feiertagen.
 Die Teilnahme ist kostenlos.
 
-Our playgroup meets every **Friday 9.30 - 11.30**, including school holidays and public holidays.
+Our [playgroup](/playgroup) meets every **Friday 9.30 - 11.30**, including school holidays and public holidays.
 Participation is free of charge.
 
 [
