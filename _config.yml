@@ -46,7 +46,7 @@ permalink: /:year/:month/:day/:title
 
 # Theme settings
 # Minima 3.x
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@5ce4006d175e6e5278bb63a0aad1a85e3bf2370b
 minima:
   date_format: "%-d %B %Y"
   skin: auto
