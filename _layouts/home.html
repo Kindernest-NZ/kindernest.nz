@@ -31,7 +31,7 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
+        {%- if site.minima.show_excerpts -%}
           {{ post.excerpt }}
           <a class="post-read-more" href="{{ post.url | relative_url }}">weiterlesen..</a>
         {%- endif -%}

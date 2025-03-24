@@ -1,6 +1,6 @@
 // Customisation of syles used in Jekyll minima template
 // Include the preferred external font
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400&display=swap');
 
 .site-title {
   text-transform: uppercase;
@@ -19,10 +19,13 @@
   float: left;
 }
 
+.post-header {
+  padding-top: 18px;
+}
+
 // Display icon after external links
 a[href^="http://"]::after,
-a[href^="https://"]::after
-{
+a[href^="https://"]::after {
   content: "";
   width: 11px;
   height: 11px;

@@ -41,26 +41,27 @@ plugins:
   - jekyll-sitemap
 
 # Post settings
-show_excerpts: true
 permalink: /:year/:month/:day/:title
 
 # Theme settings
 # Minima 3.x
-remote_theme: jekyll/minima@5ce4006d175e6e5278bb63a0aad1a85e3bf2370b
+remote_theme: jekyll/minima@4c8597750d754f24c5566862facff772269aab82
 minima:
   date_format: "%-d %B %Y"
   skin: auto
+  show_excerpts: true
   social_links:
-    - platform: facebook
-      user_url: "https://www.facebook.com/kindernestnz"
-    #- platform: cab
-    #  user_url: https://www.cab.org.nz/community-directory/KB00006697
+    - icon: facebook
+      url: https://www.facebook.com/kindernestnz
+      title: Kindernest on Facebook
+    #- icon: ~
+    #  url: https://www.cab.org.nz/community-directory/KB00006697
     #  title: Kindernest on Citizens Advice Bureau
+  nav_pages:
+    - playgroup.md
+    - donate.md
+    - links.md
 
-header_pages:
-  - playgroup.md
-  - donate.md
-  - links.md
 
 readme_index:
   enabled: false
