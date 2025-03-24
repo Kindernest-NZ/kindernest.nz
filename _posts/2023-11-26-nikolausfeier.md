@@ -4,7 +4,7 @@ tags: event
 author: Nikolaus Komitee
 excerpt_separator: <!--more-->
 ---
-![Tote bag with "Kindernest" print](/assets/posts/nikolaus_2023.jpg)
+![Flyer with details about the Nikoausfeier](/assets/posts/nikolaus_2023.jpg)
 
 Unsere Kindernest Nikolausfeier findet am **Sonntag, den 10. Dezember** statt. 
 <!--more-->
