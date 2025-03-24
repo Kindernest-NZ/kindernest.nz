@@ -2,6 +2,8 @@
 title: Merchandise Shop
 tags: fundraiser
 author: Maria
+published: false
+modified_date: 2025-03-24
 excerpt_separator: <!--more-->
 ---
 ![Tote bag with "Kindernest" print](/assets/posts/merch-tote-bag.jpg)
