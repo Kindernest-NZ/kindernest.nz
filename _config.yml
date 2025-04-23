@@ -45,11 +45,12 @@ permalink: /:year/:month/:day/:title
 
 # Theme settings
 # Minima 3.x
-remote_theme: jekyll/minima@4c8597750d754f24c5566862facff772269aab82
+remote_theme: jekyll/minima@79af56ab8c586ebcfaff136c1378b79e0c38abb2
 minima:
   date_format: "%-d %B %Y"
   skin: auto
   show_excerpts: true
+  hide_site_feed_link: true
   social_links:
     - icon: facebook
       url: https://www.facebook.com/kindernestnz
@@ -61,7 +62,6 @@ minima:
     - playgroup.md
     - donate.md
     - links.md
-
 
 readme_index:
   enabled: false
