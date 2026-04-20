@@ -13,3 +13,7 @@ The static site can then be built with `jekyll`:
 
     bundle exec jekyll clean
     bundle exec jekyll build
+
+To serve the site locally, run:
+
+    bundle exec jekyll serve --host 0.0.0.0
