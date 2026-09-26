@@ -24,6 +24,19 @@ author:
 facebook:
   publisher: kindernestnz
   admins: 100076498717707
+
+facebook_page_feed:
+  url: https://www.facebook.com/kindernestnz
+  tabs: timeline
+  width: 500
+  height: 500
+  small_header: true
+  adapt_container_width: false
+  hide_cover: true
+  hide_cta: true
+  show_facepile: false
+  lazy: false
+
 locale: en_NZ
 logo: /assets/kindernest-logo.png
 
@@ -45,7 +58,7 @@ remote_theme: jekyll/minima@4de322363fca5927e6f4012cb94f6dad69ab5e6c
 minima:
   date_format: "%-d %B %Y"
   skin: auto
-  show_excerpts: true
+  show_excerpts: false
   hide_site_feed_link: true
   social_links:
     - icon: facebook

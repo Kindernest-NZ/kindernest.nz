@@ -24,3 +24,4 @@ Participation is free of charge. We're looking forward to meeting you!
 ](
     https://www.google.com/maps/place/{{ site.author.physical-address.street | url_encode }},{{ site.author.physical-address.suburb | url_encode }},{{ site.author.physical-address.town | url_encode }}
 )
+

@@ -1,0 +1,34 @@
+{% if site.facebook_page_feed -%}
+<hr/>
+
+<!-- Load Facebook Javascript SDK -->
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId: null,
+      xfbml: false,
+      version: 'v26.0'
+    });
+    // parse the XFBML elements to render the page plugin
+    FB.XFBML.parse(document.getElementById('fb-root'));
+  };
+</script>
+
+<div id="fb-root" style="text-align: center; margin: 0 auto; width: 100%;">
+  <div class="fb-page"
+    data-href="{{ site.facebook_page_feed.url }}"
+    data-tabs="{{ site.facebook_page_feed.tabs | default: 'timeline' }}"
+    data-width="{{ site.facebook_page_feed.width | default: 500 }}"
+    data-height="{{ site.facebook_page_feed.height | default: 500 }}"
+    data-small-header="{{ site.facebook_page_feed.small_header | default: true }}"
+    data-adapt-container-width="{{ site.facebook_page_feed.adapt_container_width | default: true }}"
+    data-hide-cover="{{ site.facebook_page_feed.hide_cover | default: true }}"
+    data-hide-cta="{{ site.facebook_page_feed.hide_cta | default: true }}"
+    data-show-facepile="{{ site.facebook_page_feed.show_facepile | default: false }}"
+    data-lazy="{{ site.facebook_page_feed.lazy | default: false }}"
+  ></div>
+</div>
+
+<hr/>
+{%- endif -%}
