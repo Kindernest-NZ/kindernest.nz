@@ -19,6 +19,30 @@
   float: left;
 }
 
+.home-news-grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  justify-items: stretch;
+}
+
+.home-news-column {
+  min-width: 0;
+}
+
+.home-news-facebook #fb-root,
+.home-news-facebook .fb-page,
+.home-news-facebook iframe {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 700px) {
+  .home-news-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 // Display icon after external links
 a[href^="http://"]::after,
 a[href^="https://"]::after {

@@ -1,5 +1,5 @@
 ---
-list_title: 📢 Neuigkeiten | News
+list_title: 📢 Aktuelles | Updates
 ---
 ![Kindernest logo: Two children laughing and jumping playfully](/assets/kindernest-logo.png)
 

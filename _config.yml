@@ -31,7 +31,7 @@ facebook_page_feed:
   width: 500
   height: 500
   small_header: true
-  adapt_container_width: false
+  adapt_container_width: true
   hide_cover: true
   hide_cta: true
   show_facepile: false

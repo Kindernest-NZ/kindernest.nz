@@ -13,29 +13,34 @@ layout: base
     <h2 class="post-list2-heading">{{ page.list_title }}</h2>
   {%- endif -%}
 
-  <h3>Facebook</h3>
-  {% include facebook-feed.html %}
-
-  <h3>Weiteres</h3>
   {% assign posts = site.posts %}
-  {%- if posts.size > 0 -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts limit:3 -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }} • {{ post.tags | array_to_sentence_string }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.minima.show_excerpts -%}
-          {{ post.excerpt }}
-          <a class="post-read-more" href="{{ post.url | relative_url }}">weiterlesen..</a>
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
+  <div class="home-news-grid">
+    <section class="home-news-column home-news-facebook" aria-labelledby="facebook-heading">
+      <h3 id="facebook-heading">Aus dem Alltag</h3>
+      {% include facebook-feed.html %}
+    </section>
 
+    {%- if posts.size > 0 -%}
+      <section class="home-news-column home-news-posts" aria-labelledby="local-news-heading">
+        <h3 id="local-news-heading">Ankündigungen</h3>
+        <ul class="post-list">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {%- for post in posts limit:3 -%}
+          <li>
+            <span class="post-meta">{{ post.date | date: date_format }} • {{ post.tags | array_to_sentence_string }}</span>
+            <h4>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h4>
+            {%- if site.minima.show_excerpts -%}
+              {{ post.excerpt }}
+              <a class="post-read-more" href="{{ post.url | relative_url }}">weiterlesen..</a>
+            {%- endif -%}
+          </li>
+          {%- endfor -%}
+        </ul>
+      </section>
+    {%- endif -%}
+  </div>
 </div>
